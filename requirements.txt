@@ -6,3 +6,4 @@ scipy
 scikit-learn
 jupyter
 streamlit
+# Python packages for solar analysis
