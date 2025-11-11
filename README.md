@@ -7,3 +7,4 @@
 3. Activate environment: conda activate solar_challenge 
 4. Install packages: pip install -r requirements.txt 
 # Solar Data Analysis Project
+ 
