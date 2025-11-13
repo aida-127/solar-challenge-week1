@@ -1,11 +1,6 @@
-pandas
-numpy
-matplotlib
-seaborn
-scipy
-scikit-learn
-jupyter
-streamlit
-# Python packages for solar analysis
-# Python packages for solar analysis
- 
+streamlit 
+pandas 
+matplotlib 
+seaborn 
+numpy 
+scipy 
